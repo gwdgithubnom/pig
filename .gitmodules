@@ -1,3 +1,6 @@
 [submodule "pig-chivalrous"]
 	path = pig-chivalrous
 	url = git@github.com:gwdgithubnom/pig-chivalrous.git
+[submodule "browsermob-proxy"]
+	path = browsermob-proxy
+	url = git@github.com:lightbody/browsermob-proxy.git
