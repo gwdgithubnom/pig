@@ -3,4 +3,7 @@
 	url = git@github.com:gwdgithubnom/pig-chivalrous.git
 [submodule "browsermob-proxy"]
 	path = browsermob-proxy
-	url = git@github.com:lightbody/browsermob-proxy.git
+	url = git@github.com:agodomen/browsermob-proxy.git
+[submodule "hadoop-maven-plugin"]
+	path = hadoop-maven-plugin
+	url = git@github.com:agodomen/hadoop-maven-plugin.git
